@@ -1,0 +1,33 @@
+input,  textarea,  select{
+
+    color: #1E266D;
+    background: #F5FAFF !important;
+    border: 1px solid #EEF1FF;
+    border-radius: 5px;
+}
+label{
+    display : inline-block;
+    max-width: 100% !important;
+    margin-bottom: 10px !important;
+    font-weight:bold !important ;
+}
+
+.address{
+    color: red !important;
+}
+.main-heading{
+    font-size: 30px !important;
+    color: red !important;
+    text-shadow: 2px 0 red !important;
+    font-weight: bold !important;
+    text-align: center !important;
+}
+.sub-heading{
+    font-weight: bold !important;
+    color: red !important;
+}
+
+.email{
+    color: blue !important;
+    text-align: center !important;
+}
